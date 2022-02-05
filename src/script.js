@@ -1,25 +1,29 @@
-function sequentialSizes(val) {
-    let result = "";
-    // Only change code below this line
-   switch (val) {
+function chainToSwitch(val) {
+  let answer = "";
+  // Only change code below this line
+
+  
+
+  switch(val){
+    case "bob":
+    answer = "Marley";
+    break;
+    case 42:
+    answer = "The Answer";
+    break;
     case 1:
-    case 2:
-    case 3:
-      result = "Low";
-      break;
-    case 4:
-    case 5:
-    case 6:
-      result = "Mid";
-      break;
+    answer = "There is no #1";
+    break;
+    case 99:
+    answer = "Missed me by this much!";
+    break;
     case 7:
-    case 8:
-    case 9:
-      result = "High";
-      break;}
-  
-    // Only change code above this line
-    return result;
+    answer = "Ate Nine";
+    break;
   }
-  
-  sequentialSizes(1);
+
+  // Only change code above this line
+  return answer;
+}
+
+chainToSwitch(7);
