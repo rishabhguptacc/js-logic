@@ -1,1 +1,1 @@
-const difference = 45 -12;
+const product = 8 * 80;
