@@ -1,1 +1,1 @@
-const product = 8 * 80;
+const quotient = 66 / 2;
