@@ -3,3 +3,5 @@
 /* And this is a multi line comment.
 here is the second line.
 */
+
+var myName;
