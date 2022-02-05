@@ -1,2 +1,3 @@
-// Only change code below this line
-const myArray = [[1,2,2,1], ["hola", "amigo"]];
+const myArray = [50, 60, 70];
+
+let myData = myArray[0];
