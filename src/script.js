@@ -1,7 +1,6 @@
- // This a single line comment.
+// Setup
+var a;
 
-/* And this is a multi line comment.
-here is the second line.
-*/
+// Only change code below this line
 
-var myName;
+a = 7;
