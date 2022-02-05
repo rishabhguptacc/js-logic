@@ -1,1 +1,1 @@
-const product = 2.0 * 5.0;
+const quotient = 2.2 / 2.0; // Change this line
