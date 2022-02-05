@@ -1,1 +1,1 @@
-const sum = 10 + 20;
+const difference = 45 -12;
